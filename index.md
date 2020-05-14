@@ -1,7 +1,5 @@
 ## Welcome to my Website
 
-I'm an ordinary guy, with some interest in technology and games.
-Down below you will find some cool stuff.
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
